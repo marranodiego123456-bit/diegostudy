@@ -1,0 +1,5 @@
+{
+  "name": "ElectroStudy AI - Gestor de Tareas SENA",
+  "description": "Una aplicación inteligente para estudiantes de Electricidad Industrial que organiza tareas por materia, genera material de estudio automático y programa recordatorios en un calendario interactivo.",
+  "requestFramePermissions": []
+}
